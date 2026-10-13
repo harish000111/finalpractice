@@ -1,0 +1,3 @@
+[submodule "opengallery"]
+	path = opengallery
+	url = https://github.com/harish000111/opengallery.git
